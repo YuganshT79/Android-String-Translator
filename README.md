@@ -4,6 +4,8 @@ A simple GUI Android string translator made in **Python** using **PyQT Designer*
 ## **Goal**
 The main goal of the Application is to provide free and easy to use string translation service to new Android Developers who want their app to be localized and don't have a lot of money to spend on online translation services.  
 
+**PS** : I am super lazy, It took me a whole day to translate the strings of my app into just 2 languages so I decided to make a program that does all the hard work for me while I enjoy my coffee :sunglasses: :coffee: 
+
 ## **ToDo's :**  
 . ~~Make full application GUI~~  
 . ~~Insert all languages~~  
