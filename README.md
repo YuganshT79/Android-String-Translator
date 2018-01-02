@@ -24,4 +24,5 @@ The main goal of the Application is to provide free and easy to use string trans
 [PyQT4](https://pypi.python.org/pypi/PyQt4) : PyQt4 is a comprehensive set of Python bindings for Digia’s Qt cross platform GUI toolkit. PyQt4 supports Python v2 and v3.  
 [GoogleTrans](https://pypi.python.org/pypi/googletrans) : Googletrans is a free and unlimited python library that implemented Google Translate API.  
 [Threading](https://docs.python.org/2/library/threading.html) : Higher-level threading interface.  
-[Xml Dom](https://docs.python.org/2/library/xml.dom.html) : The Document Object Model API.
+[Xml Dom](https://docs.python.org/2/library/xml.dom.html) : The Document Object Model API. 
+
